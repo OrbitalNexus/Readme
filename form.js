@@ -22,13 +22,13 @@ const renderLicenseBadge = license => {
     else {
       return `## License 
   Please refer to license page by clicking on the badge to learn more
-  - ${renderLicenseBadge(license)}.`
+  - ${renderLicenseBadge(license)}`
     }
   }
 
 const form = ({title, description, description2, description3, description4, github, install, usage, credits, credits2, credits3, license, screenName1, screenshot1, screenName2, screenshot2, email}) => 
 `# ${title}
-- [![${renderLicenseBadge(license)}]
+- ${renderLicenseBadge(license)}
 
 ## Description
 - ${description}

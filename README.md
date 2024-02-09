@@ -1,13 +1,13 @@
-# cool
-- [![]
+# yes
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-- stuff
-- yep
-- lots
-- stuff
+- yes
+- yes
+- yes
+- yes
 
-* [cool](https://github.com/orbitalnexus/readme/ "Named link title")
+* [yes](https://github.com/yes/ "Named link title")
 
 ## Table of Contents (Optional)
 
@@ -19,20 +19,20 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-- yeah
+- yes
 
 ## Usage
-- stuff
-* [cool](github.com/orbitalnexus/readme/ "Named link title")
+- yes
+* [yes](github.com/yes/ "Named link title")
 
 ## Credits
-- yep
-- none
-- none
+- yes
+- yes
+- yes
 
 - ## License 
   Please refer to license page by clicking on the badge to learn more
-  - .
+  - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Screenshots
 
@@ -46,5 +46,5 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Questions
 
-- Github Profile: https://github.com/orbitalnexus/readme
-- Please feel free to email me at: yep@gmail.com with any additional questions.
+- Github Profile: https://github.com/yes
+- Please feel free to email me at: yes with any additional questions.

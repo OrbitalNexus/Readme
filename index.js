@@ -65,10 +65,10 @@ const questions = () => {
             name: 'credits3',
         },
         {
-            type: 'checkbox',
+            type: 'list',
             message: 'Choose a license',
             name: 'license',
-            choices: ['MIT', 'Apache License 2.0', 'GNU General public License v3.0'],
+            choices: ['MIT', 'Apache License 2.0', 'GNU General Public License v3.0'],
         },
         {
             type: 'input',
